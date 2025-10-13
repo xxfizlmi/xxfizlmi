@@ -5,7 +5,7 @@ Halo! Saya **Hafiz Ilmi** — pengembang front-end yang suka membuat antarmuka r
 ---
 
 ## 📅 Contribution (jadwal hijau-abu)
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hafizilmi&theme=react-dark&area=true)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xxfizlmi&theme=react-dark&area=true)
 
 > Grafik di atas menampilkan aktivitas kontribusi GitHub secara otomatis.
 
