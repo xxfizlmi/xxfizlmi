@@ -14,28 +14,8 @@ Halo! Saya **Hafiz Ilmi** — pengembang front-end yang suka membuat antarmuka r
 
 ## 🧠 Skill & Proficiency
 
-<table>
-<tr><td>HTML</td><td>
-<div style="background-color: #ddd; border-radius: 10px;">
-  <div style="width: 95%; background-color: #E34F26; padding: 4px; border-radius: 10px; color: white; text-align: right;">95%</div>
-</div>
-</td></tr>
-<tr><td>CSS</td><td>
-<div style="background-color: #ddd; border-radius: 10px;">
-  <div style="width: 90%; background-color: #1572B6; padding: 4px; border-radius: 10px; color: white; text-align: right;">90%</div>
-</div>
-</td></tr>
-<tr><td>JavaScript</td><td>
-<div style="background-color: #ddd; border-radius: 10px;">
-  <div style="width: 80%; background-color: #F7DF1E; padding: 4px; border-radius: 10px; color: black; text-align: right;">80%</div>
-</div>
-</td></tr>
-<tr><td>React</td><td>
-<div style="background-color: #ddd; border-radius: 10px;">
-  <div style="width: 75%; background-color: #61DAFB; padding: 4px; border-radius: 10px; color: black; text-align: right;">75%</div>
-</div>
-</td></tr>
-</table>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=HTML5;CSS3;JavaScript;React;TailwindCSS;Node.js)
+
 
 ---
 
